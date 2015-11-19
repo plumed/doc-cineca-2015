@@ -1,0 +1,10 @@
+Thu Nov 19 14:41:35 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt61-cregex
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 10 --timestep 1 --ixyz diala_traj_nm.xyz  
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt61-cregex/tmp
+Checking for cregex
+Run driver
+Done. Here is the error file:

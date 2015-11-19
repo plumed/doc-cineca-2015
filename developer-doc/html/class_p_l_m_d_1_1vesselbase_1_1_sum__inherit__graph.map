@@ -1,0 +1,5 @@
+<map id="PLMD::vesselbase::Sum" name="PLMD::vesselbase::Sum">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1vesselbase_1_1_function_vessel.html" title="Objects that inherit from FunctionVessel can be used (in tandem with PLMD::vesselbase::ActionWithVess..." alt="" coords="17,161,207,207"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1vesselbase_1_1_value_vessel.html" title="PLMD::vesselbase::ValueVessel" alt="" coords="5,83,219,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="21,5,203,35"/>
+</map>

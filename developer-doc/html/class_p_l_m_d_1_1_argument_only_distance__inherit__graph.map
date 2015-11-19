@@ -1,0 +1,8 @@
+<map id="PLMD::ArgumentOnlyDistance" name="PLMD::ArgumentOnlyDistance">
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_dot_product_distance.html" title="PLMD::DotProductDistance" alt="" coords="753,5,937,35"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1_euclidean_distance.html" title="PLMD::EuclideanDistance" alt="" coords="757,59,933,88"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1_mahalanobis_distance.html" title="PLMD::MahalanobisDistance" alt="" coords="749,112,941,141"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1_normalized_euclidean_distance.html" title="PLMD::NormalizedEuclidean\lDistance" alt="" coords="751,165,940,211"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_reference_arguments.html" title="In many applications (e.g. " alt="" coords="260,85,449,115"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_reference_configuration.html" title="Abstract base class for calculating the distance from a reference configuration. " alt="" coords="7,85,209,115"/>
+</map>

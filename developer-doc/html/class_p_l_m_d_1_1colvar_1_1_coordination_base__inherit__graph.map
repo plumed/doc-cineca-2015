@@ -1,0 +1,8 @@
+<map id="PLMD::colvar::CoordinationBase" name="PLMD::colvar::CoordinationBase">
+<area shape="rect" id="node12" href="$class_p_l_m_d_1_1colvar_1_1_coordination.html" title="Provides the keyword COORDINATION &#160;" alt="" coords="5,315,187,344"/>
+<area shape="rect" id="node14" href="$class_p_l_m_d_1_1colvar_1_1_d_h_energy.html" title="Provides the keyword DHENERGY &#160;" alt="" coords="211,315,381,344"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_colvar.html" title="This is the abstract base class to use for implementing new collective variables, within it there is ..." alt="" coords="144,160,248,189"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="25,83,183,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="144,5,248,35"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="207,83,369,112"/>
+</map>

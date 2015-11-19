@@ -1,0 +1,9 @@
+Thu Nov 19 14:43:03 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/crystallization/rt-nbonds-q6
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz 64.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/crystallization/rt-nbonds-q6/tmp
+Run driver
+Done. Here is the error file:

@@ -1,0 +1,19 @@
+Thu Nov 19 14:40:53 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt15
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 10 --timestep 0.005 --ixyz trajectory.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt15/tmp
+Checking for dlopen
+Run driver
+Done. Here is the error file:
+In file included from /home/travis/opt/include/plumed/colvar/core/../../core/tools/../../tools/Communicator.h:25:0,
+                 from /home/travis/opt/include/plumed/colvar/core/../../core/tools/Communicator.h:1,
+                 from /home/travis/opt/include/plumed/colvar/core/../../core/Atoms.h:25,
+                 from /home/travis/opt/include/plumed/colvar/core/../../core/ActionAtomistic.h:27,
+                 from /home/travis/opt/include/plumed/colvar/core/../../core/Colvar.h:25,
+                 from /home/travis/opt/include/plumed/colvar/core/Colvar.h:1,
+                 from /home/travis/opt/include/plumed/colvar/Colvar.h:24,
+                 from Distance2.cpp:22:
+/usr/lib/openmpi/include/mpi.h:318:1: warning: ISO C++ 1998 does not support ‘long long’ [-Wlong-long]

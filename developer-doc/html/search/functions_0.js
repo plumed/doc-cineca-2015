@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['_5fadd',['_add',['../class_p_l_m_d_1_1_loop_unroller.html#a8cd6506fce9974396705257e04cad025',1,'PLMD::LoopUnroller::_add(double *d, const double *v)'],['../class_p_l_m_d_1_1_loop_unroller.html#ab60a0225f4c49de6f4c22ec64062686a',1,'PLMD::LoopUnroller::_add(double *d, const double *a)']]],
+  ['_5fdot',['_dot',['../class_p_l_m_d_1_1_loop_unroller.html#ad0a790be85b79289a3c72f561120028c',1,'PLMD::LoopUnroller::_dot(const double *d, const double *v)'],['../class_p_l_m_d_1_1_loop_unroller.html#ad4181d00b6785aed34f0d4166abe11ce',1,'PLMD::LoopUnroller::_dot(const double *d, const double *v)']]],
+  ['_5fmul',['_mul',['../class_p_l_m_d_1_1_loop_unroller.html#a56f447678d506bf19f50787e05448128',1,'PLMD::LoopUnroller::_mul(double *d, const double s)'],['../class_p_l_m_d_1_1_loop_unroller.html#af51d890d6fbe979792702eb2c93b2675',1,'PLMD::LoopUnroller::_mul(double *d, const double s)']]],
+  ['_5fneg',['_neg',['../class_p_l_m_d_1_1_loop_unroller.html#a47292eaf6753affaa41e0bdc59d65699',1,'PLMD::LoopUnroller::_neg(double *d, const double *v)'],['../class_p_l_m_d_1_1_loop_unroller.html#abf68af1cebdde24e9c93ef589872b9c3',1,'PLMD::LoopUnroller::_neg(double *d, const double *a)']]],
+  ['_5fsub',['_sub',['../class_p_l_m_d_1_1_loop_unroller.html#a515793447d01af147366e4c33a81eabf',1,'PLMD::LoopUnroller::_sub(double *d, const double *v)'],['../class_p_l_m_d_1_1_loop_unroller.html#a54f8bc515135b5100a1cf962d2a65cdc',1,'PLMD::LoopUnroller::_sub(double *d, const double *a)']]],
+  ['_5fsum2',['_sum2',['../class_p_l_m_d_1_1_loop_unroller.html#a0744be295df7d81c466718a65830ef16',1,'PLMD::LoopUnroller::_sum2(const double *d)'],['../class_p_l_m_d_1_1_loop_unroller.html#a0f8f3ac050adc3ad2be62dddb3ccba85',1,'PLMD::LoopUnroller::_sum2(const double *d)']]],
+  ['_5fzero',['_zero',['../class_p_l_m_d_1_1_loop_unroller.html#a25b8e86aea9f787d784083d9b8714238',1,'PLMD::LoopUnroller::_zero(double *d)'],['../class_p_l_m_d_1_1_loop_unroller.html#a1dfd9c9c1c63f83a1aa95857b75bf0e8',1,'PLMD::LoopUnroller::_zero(double *d)']]]
+];

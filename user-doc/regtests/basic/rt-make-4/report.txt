@@ -1,0 +1,27 @@
+Thu Nov 19 14:42:29 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-4
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-4/tmp
+Run Make
+Done. Here is the error file:
+In file included from main.cpp:2:0:
+/home/travis/opt/include/plumed/tools/Matrix.h: In function ‘int PLMD::diagMat(const PLMD::Matrix<T>&, std::vector<double>&, PLMD::Matrix<double>&) [with T = double]’:
+main.cpp:14:33:   instantiated from here
+/home/travis/opt/include/plumed/tools/Matrix.h:244:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:246:13: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:247:6: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:247:52: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h: In function ‘int PLMD::pseudoInvert(const PLMD::Matrix<U>&, PLMD::Matrix<double>&) [with U = double, T = double]’:
+main.cpp:36:27:   instantiated from here
+/home/travis/opt/include/plumed/tools/Matrix.h:280:40: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+main.cpp:36:27:   instantiated from here
+/home/travis/opt/include/plumed/tools/Matrix.h:284:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:288:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:288:54: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:289:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:289:54: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:292:3: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+/home/travis/opt/include/plumed/tools/Matrix.h:292:3: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]

@@ -1,0 +1,8 @@
+<map id="PLMD::multicolvar::CoordinationNumbers" name="PLMD::multicolvar::CoordinationNumbers">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar.html" title="This is the abstract base class to use for creating distributions of colvars and functions thereof..." alt="" coords="199,275,337,322"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="199,179,337,226"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="5,92,163,121"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="216,5,320,35"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="187,92,349,121"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="373,83,552,130"/>
+</map>

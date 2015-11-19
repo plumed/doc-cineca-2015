@@ -1,0 +1,10 @@
+Thu Nov 19 14:41:46 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt71b
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz trajectory.xyz --dump-forces ff --dump-forces-fmt=%10.6f --dump-full-virial
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt71b/tmp
+Checking for matheval
+Run driver
+Done. Here is the error file:

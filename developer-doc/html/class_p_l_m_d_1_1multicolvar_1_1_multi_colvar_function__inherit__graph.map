@@ -1,0 +1,12 @@
+<map id="PLMD::multicolvar::MultiColvarFunction" name="PLMD::multicolvar::MultiColvarFunction">
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1crystallization_1_1_orientation_sphere.html" title="PLMD::crystallization\l::OrientationSphere" alt="" coords="757,39,904,86"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1multicolvar_1_1_local_average.html" title="Provides the keyword LOCAL_AVERAGE &#160;" alt="" coords="761,109,900,155"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1multicolvar_1_1_number_of_links.html" title="Provides the keyword NLINKS &#160;" alt="" coords="761,178,900,225"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="384,109,523,155"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="168,64,325,93"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,117,109,147"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="165,117,328,147"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="157,170,336,217"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1crystallization_1_1_local_steinhardt.html" title="PLMD::crystallization\l::LocalSteinhardt\&lt; T \&gt;" alt="" coords="952,5,1104,51"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1crystallization_1_1_s_m_a_c.html" title="Provides the keyword SMAC &#160;" alt="" coords="955,74,1101,121"/>
+</map>

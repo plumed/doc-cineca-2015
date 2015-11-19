@@ -1,0 +1,9 @@
+Thu Nov 19 14:42:50 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-simplemd2
+++ Test type: simplemd
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-simplemd2/tmp
+Run simplemd
+Done. Here is the error file:

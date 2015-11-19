@@ -1,0 +1,9 @@
+Thu Nov 19 14:41:03 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt38
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 10 --timestep 0.005 --ixyz diala_traj_nm.xyz --dump-forces forces --dump-forces-fmt=%10.6f
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt38/tmp
+Run driver
+Done. Here is the error file:

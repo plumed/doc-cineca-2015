@@ -1,0 +1,50 @@
+<map id="PLMD::ActionAtomistic" name="PLMD::ActionAtomistic">
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_action_with_virtual_atom.html" title="Inherit from here if you are calculating the position of a virtual atom (eg a center of mass) ..." alt="" coords="380,112,577,141"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1adjmat_1_1_action_with_input_matrix.html" title="PLMD::adjmat::ActionWith\lInputMatrix" alt="" coords="389,263,568,310"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1analysis_1_1_analysis.html" title="This is the abstract base class to use for implementing new methods for analyzing the trajectory..." alt="" coords="392,395,565,424"/>
+<area shape="rect" id="node27" href="$class_p_l_m_d_1_1_colvar.html" title="This is the abstract base class to use for implementing new collective variables, within it there is ..." alt="" coords="427,928,531,957"/>
+<area shape="rect" id="node73" href="$class_p_l_m_d_1_1generic_1_1_dump_atoms.html" title="Provides the keyword DUMPATOMS &#160;" alt="" coords="384,981,573,1011"/>
+<area shape="rect" id="node75" href="$class_p_l_m_d_1_1generic_1_1_dump_mass_charge.html" title="Provides the keyword DUMPMASSCHARGE &#160;" alt="" coords="365,1035,592,1064"/>
+<area shape="rect" id="node77" href="$class_p_l_m_d_1_1generic_1_1_fit_to_template.html" title="Provides the keyword FIT_TO_TEMPLATE &#160;" alt="" coords="379,1088,579,1117"/>
+<area shape="rect" id="node79" href="$class_p_l_m_d_1_1generic_1_1_group.html" title="Provides the keyword GROUP &#160;" alt="" coords="403,1141,555,1171"/>
+<area shape="rect" id="node81" href="$class_p_l_m_d_1_1generic_1_1_whole_molecules.html" title="Provides the keyword WHOLEMOLECULES &#160;" alt="" coords="372,1195,585,1224"/>
+<area shape="rect" id="node83" href="$class_p_l_m_d_1_1generic_1_1_wrap_around.html" title="Provides the keyword WRAPAROUND &#160;" alt="" coords="384,1248,573,1277"/>
+<area shape="rect" id="node85" href="$class_p_l_m_d_1_1_i_m_d.html" title="Provides the keyword IMD &#160;" alt="" coords="433,1301,524,1331"/>
+<area shape="rect" id="node87" href="$class_p_l_m_d_1_1mapping_1_1_mapping.html" title="PLMD::mapping::Mapping" alt="" coords="392,1355,565,1384"/>
+<area shape="rect" id="node89" href="$class_p_l_m_d_1_1mapping_1_1_p_c_a_vars.html" title="Provides the keyword PCAVARS &#160;" alt="" coords="389,1408,568,1437"/>
+<area shape="rect" id="node91" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="409,1461,548,1507"/>
+<area shape="rect" id="node93" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_density.html" title="Provides the keyword MULTICOLVARDENS &#160;" alt="" coords="409,1530,548,1577"/>
+<area shape="rect" id="node95" href="$class_p_l_m_d_1_1secondarystructure_1_1_secondary_structure_r_m_s_d.html" title="Base action for calculating things like AlphRMSD, AntibetaRMSD, etc. " alt="" coords="387,1599,571,1646"/>
+<area shape="rect" id="node97" href="$class_p_l_m_d_1_1_setup_mol_info.html" title="PLMD::SetupMolInfo" alt="" coords="407,1669,551,1699"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,1195,109,1224"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1vatom_1_1_center.html" title="Provides the keyword CENTER &#160;" alt="" coords="672,5,821,35"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1vatom_1_1_c_o_m.html" title="Provides the keyword COM &#160;" alt="" coords="676,59,817,88"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1vatom_1_1_fixed_atom.html" title="Provides the keyword FIXEDATOM &#160;" alt="" coords="660,112,833,141"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1vatom_1_1_ghost.html" title="Provides the keyword GHOST &#160;" alt="" coords="673,165,820,195"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1adjmat_1_1_d_f_s_base.html" title="PLMD::adjmat::DFSBase" alt="" coords="661,219,832,248"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1adjmat_1_1_sprint.html" title="Provides the keyword SPRINT &#160;" alt="" coords="673,272,820,301"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1analysis_1_1_analysis_with_landmarks.html" title="PLMD::analysis::Analysis\lWithLandmarks" alt="" coords="660,325,833,371"/>
+<area shape="rect" id="node25" href="$class_p_l_m_d_1_1analysis_1_1_histogram.html" title="Provides the keyword HISTOGRAM &#160;" alt="" coords="656,395,837,424"/>
+<area shape="rect" id="node29" href="$class_p_l_m_d_1_1colvar_1_1_angle.html" title="Provides the keyword ANGLE &#160;" alt="" coords="676,448,817,477"/>
+<area shape="rect" id="node31" href="$class_p_l_m_d_1_1colvar_1_1_cell.html" title="Provides the keyword CELL &#160;" alt="" coords="680,501,813,531"/>
+<area shape="rect" id="node33" href="$class_p_l_m_d_1_1colvar_1_1_colvar_fake.html" title="Provides the keyword FAKE &#160;" alt="" coords="659,555,835,584"/>
+<area shape="rect" id="node35" href="$class_p_l_m_d_1_1colvar_1_1_constant.html" title="Provides the keyword CONSTANT &#160;" alt="" coords="665,608,828,637"/>
+<area shape="rect" id="node37" href="$class_p_l_m_d_1_1colvar_1_1_contact_map.html" title="Provides the keyword CONTACTMAP &#160;" alt="" coords="656,661,837,691"/>
+<area shape="rect" id="node39" href="$class_p_l_m_d_1_1colvar_1_1_coordination_base.html" title="PLMD::colvar::CoordinationBase" alt="" coords="640,715,853,744"/>
+<area shape="rect" id="node41" href="$class_p_l_m_d_1_1colvar_1_1_dipole.html" title="Provides the keyword DIPOLE &#160;" alt="" coords="673,768,820,797"/>
+<area shape="rect" id="node43" href="$class_p_l_m_d_1_1colvar_1_1_distance.html" title="Provides the keyword DISTANCE &#160;" alt="" coords="665,821,828,851"/>
+<area shape="rect" id="node45" href="$class_p_l_m_d_1_1colvar_1_1_d_r_m_s_d.html" title="Provides the keyword DRMSD &#160;" alt="" coords="667,875,827,904"/>
+<area shape="rect" id="node47" href="$class_p_l_m_d_1_1colvar_1_1_energy.html" title="Provides the keyword ENERGY &#160;" alt="" coords="672,928,821,957"/>
+<area shape="rect" id="node49" href="$class_p_l_m_d_1_1colvar_1_1_gyration.html" title="Provides the keyword GYRATION &#160;" alt="" coords="668,981,825,1011"/>
+<area shape="rect" id="node51" href="$class_p_l_m_d_1_1colvar_1_1_multi_r_m_s_d.html" title="Provides the keyword MULTI&#45;RMSD &#160;" alt="" coords="657,1035,836,1064"/>
+<area shape="rect" id="node53" href="$class_p_l_m_d_1_1colvar_1_1_n_o_e.html" title="Provides the keyword NOE &#160;" alt="" coords="677,1088,816,1117"/>
+<area shape="rect" id="node55" href="$class_p_l_m_d_1_1colvar_1_1_path_m_s_d_base.html" title="PLMD::colvar::PathMSDBase" alt="" coords="648,1141,845,1171"/>
+<area shape="rect" id="node57" href="$class_p_l_m_d_1_1colvar_1_1_p_c_a_r_m_s_d.html" title="Provides the keyword PCARMSD &#160;" alt="" coords="657,1195,836,1224"/>
+<area shape="rect" id="node59" href="$class_p_l_m_d_1_1colvar_1_1_position.html" title="Provides the keyword POSITION &#160;" alt="" coords="668,1248,825,1277"/>
+<area shape="rect" id="node61" href="$class_p_l_m_d_1_1colvar_1_1_puckering.html" title="Provides the keyword PUCKERING &#160;" alt="" coords="663,1301,831,1331"/>
+<area shape="rect" id="node63" href="$class_p_l_m_d_1_1colvar_1_1_r_m_s_d.html" title="Provides the keyword RMSD &#160;" alt="" coords="672,1355,821,1384"/>
+<area shape="rect" id="node65" href="$class_p_l_m_d_1_1colvar_1_1_template.html" title="Provides the keyword TEMPLATE &#160;" alt="" coords="665,1408,828,1437"/>
+<area shape="rect" id="node67" href="$class_p_l_m_d_1_1colvar_1_1_torsion.html" title="Provides the keyword TORSION &#160;" alt="" coords="671,1461,823,1491"/>
+<area shape="rect" id="node69" href="$class_p_l_m_d_1_1colvar_1_1_volume.html" title="Provides the keyword VOLUME &#160;" alt="" coords="669,1515,824,1544"/>
+<area shape="rect" id="node71" href="$class_p_l_m_d_1_1_r_d_c.html" title="Provides the keyword RDC &#160;" alt="" coords="699,1568,795,1597"/>
+</map>

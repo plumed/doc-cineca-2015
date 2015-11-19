@@ -1,0 +1,8 @@
+<map id="PLMD::SingleDomainRMSD" name="PLMD::SingleDomainRMSD">
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_d_r_m_s_d.html" title="PLMD::DRMSD" alt="" coords="5,237,123,267"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1_r_m_s_d_base.html" title="PLMD::RMSDBase" alt="" coords="147,237,283,267"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1_simple_r_m_s_d.html" title="PLMD::SimpleRMSD" alt="" coords="247,315,393,344"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_reference_atoms.html" title="In many applications (e.g. " alt="" coords="132,83,297,112"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_reference_configuration.html" title="Abstract base class for calculating the distance from a reference configuration. " alt="" coords="113,5,316,35"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1_optimal_r_m_s_d.html" title="PLMD::OptimalRMSD" alt="" coords="71,315,223,344"/>
+</map>

@@ -1,0 +1,9 @@
+Thu Nov 19 14:41:14 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt44b
+++ Test type: sum_hills
+++ Arguments:  --min -pi,-pi --max pi,pi --bin 20,20 --hills HILLS --fmt %12.7f
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt44b/tmp
+Run driver
+Done. Here is the error file:

@@ -1,0 +1,10 @@
+<map id="PLMD::adjmat::AdjacencyMatrixBase" name="PLMD::adjmat::AdjacencyMatrixBase">
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1adjmat_1_1_contact_aligned_matrix.html" title="Provides the keyword ALIGNED_MATRIX &#160;" alt="" coords="861,5,1064,51"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1adjmat_1_1_contact_matrix.html" title="Provides the keyword CONTACT_MATRIX &#160;" alt="" coords="865,75,1060,104"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1adjmat_1_1_h_bond_matrix.html" title="Provides the keyword HBOND_MATRIX &#160;" alt="" coords="868,128,1057,157"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="384,66,523,113"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="168,21,325,51"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,75,109,104"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="165,75,328,104"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="157,127,336,174"/>
+</map>

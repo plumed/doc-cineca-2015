@@ -1,0 +1,6 @@
+<map id="PLMD::colvar::Cell" name="PLMD::colvar::Cell">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_colvar.html" title="This is the abstract base class to use for implementing new collective variables, within it there is ..." alt="" coords="124,160,228,189"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="5,83,163,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="124,5,228,35"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="187,83,349,112"/>
+</map>

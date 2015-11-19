@@ -1,0 +1,11 @@
+<map id="PLMD::multicolvar::MultiColvarFilter" name="PLMD::multicolvar::MultiColvarFilter">
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_between.html" title="Provides the keyword MFILTER_BETWEEN &#160;" alt="" coords="989,5,1128,51"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_less.html" title="Provides the keyword MFILTER_LESS &#160;" alt="" coords="989,74,1128,121"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_more.html" title="Provides the keyword MFILTER_MORE &#160;" alt="" coords="989,143,1128,190"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1multicolvar_1_1_bridged_multi_colvar_function.html" title="PLMD::multicolvar::\lBridgedMultiColvarFunction" alt="" coords="572,74,753,121"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_base.html" title="PLMD::multicolvar::\lMultiColvarBase" alt="" coords="384,74,523,121"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="168,29,325,59"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,83,109,112"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="165,83,328,112"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="157,135,336,182"/>
+</map>

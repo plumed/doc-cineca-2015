@@ -1,0 +1,10 @@
+Thu Nov 19 14:42:43 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-mpi7b
+++ Test type: driver
+++ Arguments: --plumed=plumed.dat --timestep=0.05 --ixyz trajectory.xyz --multi 3
+++ Processors: 3
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-mpi7b/tmp
+Checking for zlib
+Run driver
+Done. Here is the error file:

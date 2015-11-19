@@ -1,0 +1,9 @@
+Thu Nov 19 14:40:59 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt28
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz trajectory.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt28/tmp
+Run driver
+Done. Here is the error file:

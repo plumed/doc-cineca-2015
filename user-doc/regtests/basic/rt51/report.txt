@@ -1,0 +1,9 @@
+Thu Nov 19 14:41:33 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt51
+++ Test type: sum_hills
+++ Arguments:  --kt 0.6 --sigma 0.2,0.2 --bin 30,30 --histo HILLS_t1 --fmt %8.3f --outhisto correction.dat
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt51/tmp
+Run driver
+Done. Here is the error file:

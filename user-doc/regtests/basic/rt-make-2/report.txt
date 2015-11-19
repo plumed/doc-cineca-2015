@@ -1,0 +1,11 @@
+Thu Nov 19 14:42:24 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-2
+++ Test type: make
+++ Arguments: 
+++ Processors: 3
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-2/tmp
+Run Make
+Done. Here is the error file:
+In file included from main.cpp:1:0:
+/usr/lib/openmpi/include/mpi.h:318:1: warning: ISO C++ 1998 does not support ‘long long’ [-Wlong-long]

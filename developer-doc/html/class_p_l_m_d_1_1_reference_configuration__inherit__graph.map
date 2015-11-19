@@ -1,0 +1,17 @@
+<map id="PLMD::ReferenceConfiguration" name="PLMD::ReferenceConfiguration">
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1_fake_frame.html" title="PLMD::FakeFrame" alt="" coords="288,120,421,149"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_reference_arguments.html" title="In many applications (e.g. " alt="" coords="260,173,449,203"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1_reference_atoms.html" title="In many applications (e.g. " alt="" coords="272,227,437,256"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_argument_only_distance.html" title="PLMD::ArgumentOnlyDistance" alt="" coords="499,112,701,141"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1_direction.html" title="PLMD::Direction" alt="" coords="541,173,659,203"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1_dot_product_distance.html" title="PLMD::DotProductDistance" alt="" coords="753,5,937,35"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1_euclidean_distance.html" title="PLMD::EuclideanDistance" alt="" coords="757,59,933,88"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1_mahalanobis_distance.html" title="PLMD::MahalanobisDistance" alt="" coords="749,112,941,141"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1_normalized_euclidean_distance.html" title="PLMD::NormalizedEuclidean\lDistance" alt="" coords="751,165,940,211"/>
+<area shape="rect" id="node22" href="$class_p_l_m_d_1_1_multi_domain_r_m_s_d.html" title="PLMD::MultiDomainRMSD" alt="" coords="511,227,689,256"/>
+<area shape="rect" id="node24" href="$class_p_l_m_d_1_1_single_domain_r_m_s_d.html" title="PLMD::SingleDomainRMSD" alt="" coords="507,284,693,313"/>
+<area shape="rect" id="node26" href="$class_p_l_m_d_1_1_d_r_m_s_d.html" title="PLMD::DRMSD" alt="" coords="787,235,904,264"/>
+<area shape="rect" id="node28" href="$class_p_l_m_d_1_1_r_m_s_d_base.html" title="PLMD::RMSDBase" alt="" coords="777,288,913,317"/>
+<area shape="rect" id="node32" href="$class_p_l_m_d_1_1_simple_r_m_s_d.html" title="PLMD::SimpleRMSD" alt="" coords="992,340,1139,369"/>
+<area shape="rect" id="node30" href="$class_p_l_m_d_1_1_optimal_r_m_s_d.html" title="PLMD::OptimalRMSD" alt="" coords="989,287,1141,316"/>
+</map>

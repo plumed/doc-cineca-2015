@@ -1,0 +1,9 @@
+Thu Nov 19 14:42:28 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-make-3
+++ Test type: make
+++ Arguments: 
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-make-3/tmp
+Run Make
+Done. Here is the error file:

@@ -1,0 +1,10 @@
+Thu Nov 19 14:42:37 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-mpi4
+++ Test type: driver
+++ Arguments: --plumed=plumed.dat --timestep=0.05 --ixyz trajectory.xyz --dump-forces ff --pdb test.pdb --multi 3
+      --debug-dd --debug-grex 2 --debug-grex-log log.grex
+++ Processors: 6
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-mpi4/tmp
+Run driver
+Done. Here is the error file:

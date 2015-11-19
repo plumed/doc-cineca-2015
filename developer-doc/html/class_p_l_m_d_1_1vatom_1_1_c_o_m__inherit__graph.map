@@ -1,0 +1,5 @@
+<map id="PLMD::vatom::COM" name="PLMD::vatom::COM">
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action_with_virtual_atom.html" title="Inherit from here if you are calculating the position of a virtual atom (eg a center of mass) ..." alt="" coords="5,160,203,189"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="25,83,183,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="52,5,156,35"/>
+</map>

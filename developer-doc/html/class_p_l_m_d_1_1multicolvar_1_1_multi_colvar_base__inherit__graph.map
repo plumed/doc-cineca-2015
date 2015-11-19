@@ -1,0 +1,50 @@
+<map id="PLMD::multicolvar::MultiColvarBase" name="PLMD::multicolvar::MultiColvarBase">
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1adjmat_1_1_adjacency_matrix_base.html" title="PLMD::adjmat::AdjacencyMatrixBase" alt="" coords="575,101,815,131"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1adjmat_1_1_matrix_summation_base.html" title="PLMD::adjmat::MatrixSummationBase" alt="" coords="572,235,817,264"/>
+<area shape="rect" id="node27" href="$class_p_l_m_d_1_1multicolvar_1_1_bridged_multi_colvar_function.html" title="PLMD::multicolvar::\lBridgedMultiColvarFunction" alt="" coords="604,322,785,369"/>
+<area shape="rect" id="node51" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar.html" title="This is the abstract base class to use for creating distributions of colvars and functions thereof..." alt="" coords="625,877,764,923"/>
+<area shape="rect" id="node89" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_function.html" title="PLMD::multicolvar::\lMultiColvarFunction" alt="" coords="625,1501,764,1547"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="168,277,325,307"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,331,109,360"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="165,331,328,360"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="157,383,336,430"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1adjmat_1_1_contact_aligned_matrix.html" title="Provides the keyword ALIGNED_MATRIX &#160;" alt="" coords="880,5,1083,51"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1adjmat_1_1_contact_matrix.html" title="Provides the keyword CONTACT_MATRIX &#160;" alt="" coords="884,75,1079,104"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1adjmat_1_1_h_bond_matrix.html" title="Provides the keyword HBOND_MATRIX &#160;" alt="" coords="887,128,1076,157"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1adjmat_1_1_matrix_column_sums.html" title="Provides the keyword COLUMNSUMS &#160;" alt="" coords="867,181,1096,211"/>
+<area shape="rect" id="node25" href="$class_p_l_m_d_1_1adjmat_1_1_matrix_row_sums.html" title="Provides the keyword ROWSUMS &#160;" alt="" coords="876,235,1087,264"/>
+<area shape="rect" id="node29" href="$class_p_l_m_d_1_1multicolvar_1_1_multi_colvar_filter.html" title="This is the abstract base class to use for implementing a new way of filtering collective variable va..." alt="" coords="912,287,1051,334"/>
+<area shape="rect" id="node37" href="$class_p_l_m_d_1_1multicolvar_1_1_volume_gradient_base.html" title="PLMD::multicolvar::\lVolumeGradientBase" alt="" coords="909,357,1053,403"/>
+<area shape="rect" id="node31" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_between.html" title="Provides the keyword MFILTER_BETWEEN &#160;" alt="" coords="1151,149,1289,195"/>
+<area shape="rect" id="node33" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_less.html" title="Provides the keyword MFILTER_LESS &#160;" alt="" coords="1151,218,1289,265"/>
+<area shape="rect" id="node35" href="$class_p_l_m_d_1_1multicolvar_1_1_filter_more.html" title="Provides the keyword MFILTER_MORE &#160;" alt="" coords="1151,287,1289,334"/>
+<area shape="rect" id="node39" href="$class_p_l_m_d_1_1crystallisation_1_1_gradient.html" title="Provides the keyword GRADIENT &#160;" alt="" coords="1147,357,1293,403"/>
+<area shape="rect" id="node41" href="$class_p_l_m_d_1_1multicolvar_1_1_action_volume.html" title="This is the abstract base class to use for implementing a new way of definining a particular region o..." alt="" coords="1151,426,1289,473"/>
+<area shape="rect" id="node43" href="$class_p_l_m_d_1_1multicolvar_1_1_volume_around.html" title="Provides the keyword AROUND &#160;" alt="" coords="1344,322,1483,369"/>
+<area shape="rect" id="node45" href="$class_p_l_m_d_1_1multicolvar_1_1_volume_cavity.html" title="Provides the keyword CAVITY &#160;" alt="" coords="1344,391,1483,438"/>
+<area shape="rect" id="node47" href="$class_p_l_m_d_1_1multicolvar_1_1_volume_in_cylinder.html" title="Provides the keyword INCYLINDER &#160;" alt="" coords="1344,461,1483,507"/>
+<area shape="rect" id="node49" href="$class_p_l_m_d_1_1multicolvar_1_1_volume_in_sphere.html" title="Provides the keyword INSPHERE &#160;" alt="" coords="1344,530,1483,577"/>
+<area shape="rect" id="node53" href="$class_p_l_m_d_1_1crystallization_1_1_fccubic.html" title="Provides the keyword FCCUBIC &#160;" alt="" coords="908,426,1055,473"/>
+<area shape="rect" id="node55" href="$class_p_l_m_d_1_1crystallization_1_1_simple_cubic.html" title="Provides the keyword SIMPLECUBIC &#160;" alt="" coords="908,495,1055,542"/>
+<area shape="rect" id="node57" href="$class_p_l_m_d_1_1crystallization_1_1_tetrahedral.html" title="Provides the keyword TETRAHEDRAL &#160;" alt="" coords="908,565,1055,611"/>
+<area shape="rect" id="node59" href="$class_p_l_m_d_1_1crystallization_1_1_vector_multi_colvar.html" title="PLMD::crystallization\l::VectorMultiColvar" alt="" coords="908,634,1055,681"/>
+<area shape="rect" id="node67" href="$class_p_l_m_d_1_1multicolvar_1_1_alpha_beta.html" title="Provides the keyword ALPHABETA &#160;" alt="" coords="912,703,1051,750"/>
+<area shape="rect" id="node69" href="$class_p_l_m_d_1_1multicolvar_1_1_angles.html" title="Provides the keyword ANGLES &#160;" alt="" coords="912,773,1051,819"/>
+<area shape="rect" id="node71" href="$class_p_l_m_d_1_1multicolvar_1_1_bridge.html" title="Provides the keyword BRIDGE &#160;" alt="" coords="912,842,1051,889"/>
+<area shape="rect" id="node73" href="$class_p_l_m_d_1_1multicolvar_1_1_coordination_numbers.html" title="Provides the keyword COORDINATIONNUMBER &#160;" alt="" coords="908,911,1055,958"/>
+<area shape="rect" id="node75" href="$class_p_l_m_d_1_1multicolvar_1_1_density.html" title="Provides the keyword DENSITY &#160;" alt="" coords="912,981,1051,1027"/>
+<area shape="rect" id="node77" href="$class_p_l_m_d_1_1multicolvar_1_1_dihedral_correlation.html" title="Provides the keyword DIHCOR &#160;" alt="" coords="912,1050,1051,1097"/>
+<area shape="rect" id="node79" href="$class_p_l_m_d_1_1multicolvar_1_1_distances.html" title="Provides the keyword DISTANCES &#160;" alt="" coords="912,1119,1051,1166"/>
+<area shape="rect" id="node81" href="$class_p_l_m_d_1_1multicolvar_1_1_in_plane_distances.html" title="Provides the keyword INPLANEDISTANCES &#160;" alt="" coords="912,1189,1051,1235"/>
+<area shape="rect" id="node83" href="$class_p_l_m_d_1_1multicolvar_1_1_torsions.html" title="Provides the keyword TORSIONS &#160;" alt="" coords="912,1258,1051,1305"/>
+<area shape="rect" id="node85" href="$class_p_l_m_d_1_1multicolvar_1_1_x_distances.html" title="Provides the keyword XDISTANCES &#160;" alt="" coords="912,1327,1051,1374"/>
+<area shape="rect" id="node87" href="$class_p_l_m_d_1_1multicolvar_1_1_x_y_distances.html" title="Provides the keyword XYDISTANCES &#160;" alt="" coords="912,1397,1051,1443"/>
+<area shape="rect" id="node61" href="$class_p_l_m_d_1_1crystallization_1_1_molecule_orientation.html" title="Provides the keyword MOLECULES &#160;" alt="" coords="1147,565,1293,611"/>
+<area shape="rect" id="node63" href="$class_p_l_m_d_1_1crystallization_1_1_molecule_plane.html" title="Provides the keyword PLANES &#160;" alt="" coords="1147,634,1293,681"/>
+<area shape="rect" id="node65" href="$class_p_l_m_d_1_1crystallization_1_1_steinhardt.html" title="PLMD::crystallization\l::Steinhardt" alt="" coords="1147,703,1293,750"/>
+<area shape="rect" id="node91" href="$class_p_l_m_d_1_1crystallization_1_1_orientation_sphere.html" title="PLMD::crystallization\l::OrientationSphere" alt="" coords="908,1466,1055,1513"/>
+<area shape="rect" id="node97" href="$class_p_l_m_d_1_1multicolvar_1_1_local_average.html" title="Provides the keyword LOCAL_AVERAGE &#160;" alt="" coords="912,1535,1051,1582"/>
+<area shape="rect" id="node99" href="$class_p_l_m_d_1_1multicolvar_1_1_number_of_links.html" title="Provides the keyword NLINKS &#160;" alt="" coords="912,1605,1051,1651"/>
+<area shape="rect" id="node93" href="$class_p_l_m_d_1_1crystallization_1_1_local_steinhardt.html" title="PLMD::crystallization\l::LocalSteinhardt\&lt; T \&gt;" alt="" coords="1144,1431,1296,1478"/>
+<area shape="rect" id="node95" href="$class_p_l_m_d_1_1crystallization_1_1_s_m_a_c.html" title="Provides the keyword SMAC &#160;" alt="" coords="1147,1501,1293,1547"/>
+</map>

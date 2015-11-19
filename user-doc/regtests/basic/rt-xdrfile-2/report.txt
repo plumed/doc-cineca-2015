@@ -1,0 +1,10 @@
+Thu Nov 19 14:42:51 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-xdrfile-2
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --trajectory-stride 1 --timestep 0.005 --itrr traj.trr --multi 2
+++ Processors: 2
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-xdrfile-2/tmp
+Checking for xdrfile
+Run driver
+Done. Here is the error file:

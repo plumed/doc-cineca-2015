@@ -1,0 +1,9 @@
+<map id="PLMD::secondarystructure::SecondaryStructureRMSD" name="PLMD::secondarystructure::SecondaryStructureRMSD">
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1secondarystructure_1_1_alpha_r_m_s_d.html" title="Provides the keyword ALPHARMSD &#160;" alt="" coords="619,5,797,51"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1secondarystructure_1_1_antibeta_r_m_s_d.html" title="Provides the keyword ANTIBETARMSD &#160;" alt="" coords="619,74,797,121"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1secondarystructure_1_1_parabeta_r_m_s_d.html" title="Provides the keyword PARABETARMSD &#160;" alt="" coords="619,143,797,190"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code. " alt="" coords="168,29,325,59"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,83,109,112"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="165,83,328,112"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_vessel.html" title="This is used to create PLMD::Action objects that are computed by calculating the same function multip..." alt="" coords="157,135,336,182"/>
+</map>

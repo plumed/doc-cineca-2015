@@ -1,0 +1,9 @@
+Thu Nov 19 14:42:31 UTC 2015
+Running regtest in /home/travis/build/plumed/plumed2/regtest/basic/rt-molfile-5
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --mf_crdbox test.crd --natoms 9560
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/plumed/plumed2/regtest/basic/rt-molfile-5/tmp
+Run driver
+Done. Here is the error file:
